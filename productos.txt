@@ -1,0 +1,5 @@
+1|Camisa Blanca|120|Ropa Casual
+2|Pantalon Azul|320|Ropa Casual
+3|Camisa de Vestir|180|Caballeros
+4|Calcetines|50|Caballero
+5|Tenis|260|Calzado
