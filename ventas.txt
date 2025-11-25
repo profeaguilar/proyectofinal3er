@@ -1,3 +1,16 @@
 Tenis|260.0|5|1300.0
 Camisa de Vestir|180.0|4|720.0
 Calcetines|50.0|2|100.0
+Camisa de Vestir|180.0|2|360.0
+Camisa de Vestir|180.0|2|360.0
+Camisa de Vestir|180.0|2|360.0
+Calcetines|50.0|3|150.0
+Pantalon Azul|320.0|1|320.0
+Camisa de Vestir|180.0|1|180.0
+Calcetines|50.0|1|50.0
+Camisa de Vestir|180.0|1|180.0
+Camisa Blanca|120.0|1|120.0
+Camisa de Vestir|180.0|1|180.0
+Camisa de Vestir|180.0|1|180.0
+Camisa de Vestir|180.0|4|720.0
+Pantalon Azul|320.0|2|640.0
